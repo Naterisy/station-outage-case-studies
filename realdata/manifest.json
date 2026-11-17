@@ -1,0 +1,510 @@
+{
+  "source_inventory": "https://www.ncei.noaa.gov/pub/data/noaa/isd-history.csv",
+  "inventory_sha256": "1994747ab4af1b97e63adb434b4d0d022f2daee76f0c144ea9ab46be2d906604",
+  "bounds": [
+    36,
+    42.5,
+    -124.6,
+    -119
+  ],
+  "target": 36,
+  "training_min_valid_days": 330,
+  "selection": "inventory active throughout 2021; exact-coordinate dedup; farthest-first geography order, accept 2021 valid-count >=330; no later-year eligibility",
+  "stations": [
+    {
+      "station": "72389523149",
+      "name": "PORTERVILLE MUNICIPAL ARPT",
+      "lat": 36.029,
+      "lon": -119.063,
+      "elevation_m": 134.7,
+      "train_valid_days": 356
+    },
+    {
+      "station": "99999904139",
+      "name": "DENIO 52 WSW",
+      "lat": 41.848,
+      "lon": -119.636,
+      "elevation_m": 1981.2,
+      "train_valid_days": 359
+    },
+    {
+      "station": "72054900171",
+      "name": "CARSON AIRPORT",
+      "lat": 39.183,
+      "lon": -119.733,
+      "elevation_m": 1432.3,
+      "train_valid_days": 363
+    },
+    {
+      "station": "72036524267",
+      "name": "BROOKINGS AIRPORT",
+      "lat": 42.074,
+      "lon": -124.29,
+      "elevation_m": 139.9,
+      "train_valid_days": 362
+    },
+    {
+      "station": "99404499999",
+      "name": "ARENA COVE",
+      "lat": 38.915,
+      "lon": -123.711,
+      "elevation_m": 9.0,
+      "train_valid_days": 355
+    },
+    {
+      "station": "72589594236",
+      "name": "KLAMATH FALLS AIRPORT",
+      "lat": 42.147,
+      "lon": -121.726,
+      "elevation_m": 1244.5,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72481523257",
+      "name": "MRCD MUNI/MACREADY FLD APT",
+      "lat": 37.286,
+      "lon": -120.518,
+      "elevation_m": 46.5,
+      "train_valid_days": 365
+    },
+    {
+      "station": "74504893210",
+      "name": "OROVILLE MUNICIPAL AIRPORT",
+      "lat": 39.494,
+      "lon": -121.622,
+      "elevation_m": 56.9,
+      "train_valid_days": 364
+    },
+    {
+      "station": "72491523259",
+      "name": "MONTEREY PENINSULA AIRPORT",
+      "lat": 36.588,
+      "lon": -121.845,
+      "elevation_m": 50.3,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72483023232",
+      "name": "SACRAMENTO EXECUTIVE AIRPORT",
+      "lat": 38.507,
+      "lon": -121.496,
+      "elevation_m": 5.9,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72597024225",
+      "name": "ROGUE VALLEY INTL-MEDFORD AIRPORT",
+      "lat": 42.375,
+      "lon": -122.877,
+      "elevation_m": 400.3,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72065200433",
+      "name": "BRIDGEPORT SONORA JUNCTION",
+      "lat": 38.356,
+      "lon": -119.519,
+      "elevation_m": 2057.1,
+      "train_valid_days": 363
+    },
+    {
+      "station": "72495723213",
+      "name": "SONOMA COUNTY AIRPORT",
+      "lat": 38.504,
+      "lon": -122.811,
+      "elevation_m": 36.2,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72595894299",
+      "name": "ALTURAS MUNICIPAL AIRPORT",
+      "lat": 41.484,
+      "lon": -120.562,
+      "elevation_m": 1335.9,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72389093193",
+      "name": "FRESNO YOSEMITE INTERNATIONAL AIRPORT",
+      "lat": 36.78,
+      "lon": -119.72,
+      "elevation_m": 101.9,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72591024216",
+      "name": "RED BLUFF MUNICIPAL ARPT",
+      "lat": 40.152,
+      "lon": -122.255,
+      "elevation_m": 108.1,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72061500206",
+      "name": "COLUMBIA AIRPORT",
+      "lat": 38.033,
+      "lon": -120.417,
+      "elevation_m": 646.2,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72584523225",
+      "name": "BLUE CANYON - NYACK ARPT",
+      "lat": 39.276,
+      "lon": -120.709,
+      "elevation_m": 1611.2,
+      "train_valid_days": 364
+    },
+    {
+      "station": "72595724215",
+      "name": "MOUNT SHASTA",
+      "lat": 41.315,
+      "lon": -122.317,
+      "elevation_m": 1083.0,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72597694285",
+      "name": "LAKE COUNTY AIRPORT",
+      "lat": 42.167,
+      "lon": -120.4,
+      "elevation_m": 1441.1,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72492023237",
+      "name": "STOCKTON METROPOLITAN AIRPORT",
+      "lat": 37.89,
+      "lon": -121.226,
+      "elevation_m": 8.3,
+      "train_valid_days": 365
+    },
+    {
+      "station": "99403499999",
+      "name": "PORT CHICAGO",
+      "lat": 38.057,
+      "lon": -122.038,
+      "elevation_m": 2.0,
+      "train_valid_days": 353
+    },
+    {
+      "station": "72064500227",
+      "name": "PLACERVILLE AIRPORT",
+      "lat": 38.717,
+      "lon": -120.75,
+      "elevation_m": 787.3,
+      "train_valid_days": 363
+    },
+    {
+      "station": "72494693232",
+      "name": "REID-HILLVIEW AIRPORT OF SANTA CLARA COUNTY",
+      "lat": 37.333,
+      "lon": -121.817,
+      "elevation_m": 40.5,
+      "train_valid_days": 364
+    },
+    {
+      "station": "99999953150",
+      "name": "YOSEMITE VILLAGE 12 W",
+      "lat": 37.759,
+      "lon": -119.821,
+      "elevation_m": 2017.8,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72083900279",
+      "name": "RENO STEAD AIRPORT",
+      "lat": 39.667,
+      "lon": -119.876,
+      "elevation_m": 1540.2,
+      "train_valid_days": 365
+    },
+    {
+      "station": "74702023110",
+      "name": "NAVAL AIR STATION",
+      "lat": 36.333,
+      "lon": -119.95,
+      "elevation_m": 70.7,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72595524259",
+      "name": "SISKIYOU COUNTY AIRPORT",
+      "lat": 41.774,
+      "lon": -122.468,
+      "elevation_m": 806.1,
+      "train_valid_days": 365
+    },
+    {
+      "station": "74917900392",
+      "name": "HOLLISTER MUNICIPAL AIRPORT",
+      "lat": 36.9,
+      "lon": -121.417,
+      "elevation_m": 72.2,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72590523275",
+      "name": "UKIAH MUNICIPAL AIRPORT",
+      "lat": 39.128,
+      "lon": -123.2,
+      "elevation_m": 183.7,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72061400205",
+      "name": "LINCOLN REGIONAL AIRPORT KARL HARDER FIELD",
+      "lat": 38.909,
+      "lon": -121.351,
+      "elevation_m": 37.2,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72389693144",
+      "name": "VISALIA MUNICIPAL AIRPORT",
+      "lat": 36.317,
+      "lon": -119.4,
+      "elevation_m": 89.9,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72040600135",
+      "name": "GNOSS FIELD AIRPORT",
+      "lat": 38.15,
+      "lon": -122.55,
+      "elevation_m": 1.2,
+      "train_valid_days": 364
+    },
+    {
+      "station": "74504693242",
+      "name": "MADERA MUNICIPAL AIRPORT",
+      "lat": 36.985,
+      "lon": -120.111,
+      "elevation_m": 76.6,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72592024257",
+      "name": "REDDING MUNICIPAL AIRPORT",
+      "lat": 40.515,
+      "lon": -122.298,
+      "elevation_m": 152.6,
+      "train_valid_days": 365
+    },
+    {
+      "station": "72492723285",
+      "name": "LIVERMORE MUNICIPAL ARPT",
+      "lat": 37.693,
+      "lon": -121.815,
+      "elevation_m": 119.8,
+      "train_valid_days": 365
+    }
+  ],
+  "candidate_audit": [
+    {
+      "station": "72019300117",
+      "valid_train_days": 0,
+      "accepted": false
+    },
+    {
+      "station": "72389523149",
+      "valid_train_days": 356,
+      "accepted": true
+    },
+    {
+      "station": "72064600228",
+      "valid_train_days": 297,
+      "accepted": false
+    },
+    {
+      "station": "99999904139",
+      "valid_train_days": 359,
+      "accepted": true
+    },
+    {
+      "station": "72054900171",
+      "valid_train_days": 363,
+      "accepted": true
+    },
+    {
+      "station": "72036524267",
+      "valid_train_days": 362,
+      "accepted": true
+    },
+    {
+      "station": "99404499999",
+      "valid_train_days": 355,
+      "accepted": true
+    },
+    {
+      "station": "72589594236",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "72481523257",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "74504893210",
+      "valid_train_days": 364,
+      "accepted": true
+    },
+    {
+      "station": "72583799999",
+      "valid_train_days": 324,
+      "accepted": false
+    },
+    {
+      "station": "72491523259",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "99401799999",
+      "valid_train_days": 0,
+      "accepted": false
+    },
+    {
+      "station": "72483023232",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "72597024225",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "72065200433",
+      "valid_train_days": 363,
+      "accepted": true
+    },
+    {
+      "station": "72495723213",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "72595894299",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "72389093193",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "72591024216",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "72061500206",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "72584523225",
+      "valid_train_days": 364,
+      "accepted": true
+    },
+    {
+      "station": "72595724215",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "72597694285",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "72492023237",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "99403499999",
+      "valid_train_days": 353,
+      "accepted": true
+    },
+    {
+      "station": "72064500227",
+      "valid_train_days": 363,
+      "accepted": true
+    },
+    {
+      "station": "72494693232",
+      "valid_train_days": 364,
+      "accepted": true
+    },
+    {
+      "station": "99999953150",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "99402299999",
+      "valid_train_days": 0,
+      "accepted": false
+    },
+    {
+      "station": "72083900279",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "74702023110",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "72595524259",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "74917900392",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "72590523275",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "72061400205",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "72389693144",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "72040600135",
+      "valid_train_days": 364,
+      "accepted": true
+    },
+    {
+      "station": "74504693242",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "72592024257",
+      "valid_train_days": 365,
+      "accepted": true
+    },
+    {
+      "station": "72492723285",
+      "valid_train_days": 365,
+      "accepted": true
+    }
+  ]
+}

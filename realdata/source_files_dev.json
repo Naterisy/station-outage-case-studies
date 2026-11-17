@@ -1,0 +1,612 @@
+[
+  {
+    "station": "72019300117",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72019300117.csv",
+    "status": "404"
+  },
+  {
+    "station": "72389523149",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72389523149.csv",
+    "sha256": "58be6fa2942a605ec165a3b0aaf0df11d50ab1807d887a733872eef4c3bb1aec",
+    "bytes": 88953,
+    "rows": 356
+  },
+  {
+    "station": "72064600228",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72064600228.csv",
+    "sha256": "8610f7b49bf6dc4f71dd8083fab0351b48177c75e574b381fb72931821e0b18c",
+    "bytes": 70698,
+    "rows": 297
+  },
+  {
+    "station": "99999904139",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/99999904139.csv",
+    "sha256": "6ba587c39c67eaec979923af2070d66aa6b1fcc302ac5e54f946c7afefd5eccd",
+    "bytes": 83597,
+    "rows": 359
+  },
+  {
+    "station": "72054900171",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72054900171.csv",
+    "sha256": "a03068346140f2e4e153858186e0d1778072bfeaa64af2fc5bc86bf9d37a4f9d",
+    "bytes": 84525,
+    "rows": 363
+  },
+  {
+    "station": "72036524267",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72036524267.csv",
+    "sha256": "9a58b91e1f8a0cc2c84cf85d54309a29a35157772310373c7fea80d5704fc52c",
+    "bytes": 87551,
+    "rows": 362
+  },
+  {
+    "station": "99404499999",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/99404499999.csv",
+    "sha256": "c325a600f2addcd9320ced881562745b9a57c5883b8ef462cb4b757fd3da6074",
+    "bytes": 79119,
+    "rows": 355
+  },
+  {
+    "station": "72589594236",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72589594236.csv",
+    "sha256": "98f7e6002cb4ef7439eb61201cf0c623e23e394c7b81bf3da1c82d70d7bd4f12",
+    "bytes": 94114,
+    "rows": 365
+  },
+  {
+    "station": "72481523257",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72481523257.csv",
+    "sha256": "26d6c3f2d6dbb7eb0adda49e8676cde75b4d9953aed0392c66fb190ca8488b50",
+    "bytes": 89369,
+    "rows": 365
+  },
+  {
+    "station": "74504893210",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/74504893210.csv",
+    "sha256": "cc372d35badfaf7dddd30087c90bfb7453fefb4ef2c13e95283f1665e0657f9e",
+    "bytes": 89489,
+    "rows": 364
+  },
+  {
+    "station": "72583799999",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72583799999.csv",
+    "sha256": "080bd90c6dd7d53b7ae48761d1c2149f80c6c8b241d5408314803c860470a7bc",
+    "bytes": 79689,
+    "rows": 324
+  },
+  {
+    "station": "72491523259",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72491523259.csv",
+    "sha256": "295260b73396c2a33104387757c84d7ad91f13b67f1c5e451e67b5139f233ad2",
+    "bytes": 89734,
+    "rows": 365
+  },
+  {
+    "station": "99401799999",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/99401799999.csv",
+    "status": "404"
+  },
+  {
+    "station": "72483023232",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72483023232.csv",
+    "sha256": "67d9a9dff23cd1c7e86565927683e750c6bee764415017f0250e894f62d61d79",
+    "bytes": 88639,
+    "rows": 365
+  },
+  {
+    "station": "72597024225",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72597024225.csv",
+    "sha256": "e535a19e406bffe0e7d45fec24a8afa691f4eebb9c458b5aa3d6dbe942d32cb1",
+    "bytes": 91559,
+    "rows": 365
+  },
+  {
+    "station": "72065200433",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72065200433.csv",
+    "sha256": "4cd3b3ba5c32acac44985234b8f38860fd00a0dbb65cddf93cd046f6bf405f64",
+    "bytes": 89244,
+    "rows": 363
+  },
+  {
+    "station": "72495723213",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72495723213.csv",
+    "sha256": "37f962e5e1f12259ce52a2a4acf01aca7d0b86d707a61bfa15051e66670ffcec",
+    "bytes": 90829,
+    "rows": 365
+  },
+  {
+    "station": "72595894299",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72595894299.csv",
+    "sha256": "c9aff619133ef58ee9b8911f0c147fcf07035bd05eeeb2be5042cadad0b0286b",
+    "bytes": 90099,
+    "rows": 365
+  },
+  {
+    "station": "72389093193",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72389093193.csv",
+    "sha256": "06f39f969aa1307c41420781324aae762f203e6c0c0ac5fff7094ec81322148b",
+    "bytes": 91559,
+    "rows": 365
+  },
+  {
+    "station": "72591024216",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72591024216.csv",
+    "sha256": "f62f7e6d1c350ec4e68fabf63adb3cf352375bc6b49881f07a0dced3ce494b84",
+    "bytes": 90829,
+    "rows": 365
+  },
+  {
+    "station": "72061500206",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72061500206.csv",
+    "sha256": "5c9d47bcc7a8e63ee6633f8d623cede16117b323f8dd7d675c96c12f924bfd46",
+    "bytes": 85354,
+    "rows": 365
+  },
+  {
+    "station": "72584523225",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72584523225.csv",
+    "sha256": "4f17e11bc286d10c998b9341a9a61aad54259831cbd7b22868f61abb9377dca8",
+    "bytes": 90217,
+    "rows": 364
+  },
+  {
+    "station": "72595724215",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72595724215.csv",
+    "sha256": "387451d8db2efa062d20eac7021b17f42148a05789dfb55d30e77fa49a14a1a6",
+    "bytes": 86449,
+    "rows": 365
+  },
+  {
+    "station": "72597694285",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72597694285.csv",
+    "sha256": "f91686f4ee59b6238849e2cdcc478ddff036f5db42e522d406403e421a1bfa9e",
+    "bytes": 88639,
+    "rows": 365
+  },
+  {
+    "station": "72492023237",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72492023237.csv",
+    "sha256": "92b65935249fc3c18914d4370fd56b6b296d677cf2f8d73789180536ff54865f",
+    "bytes": 86084,
+    "rows": 365
+  },
+  {
+    "station": "99403499999",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/99403499999.csv",
+    "sha256": "2b230111c487b51fd577b66e776a713d95824497a6068f9fbfdbf82d6fa49d69",
+    "bytes": 80440,
+    "rows": 353
+  },
+  {
+    "station": "72064500227",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72064500227.csv",
+    "sha256": "753740316454ea36fc8863092e75d8c6ae42f0dec93a032ca512eae176fd1475",
+    "bytes": 85614,
+    "rows": 363
+  },
+  {
+    "station": "72494693232",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72494693232.csv",
+    "sha256": "54a6b9fe17adba61f7905e8412c1e0f3e4f2cb91119ab0b59e3ccc3282e186bc",
+    "bytes": 91309,
+    "rows": 364
+  },
+  {
+    "station": "99999953150",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/99999953150.csv",
+    "sha256": "854ee5aae199ede36bf59e42b65adfed0b1c3a8a40a9c9ddda45e43031e6ac52",
+    "bytes": 88274,
+    "rows": 365
+  },
+  {
+    "station": "99402299999",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/99402299999.csv",
+    "status": "404"
+  },
+  {
+    "station": "72083900279",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72083900279.csv",
+    "sha256": "9d78bfce5faae46fc24824c26e5503c4f8d14adfaf833c7b6f76405dcf491d53",
+    "bytes": 86449,
+    "rows": 365
+  },
+  {
+    "station": "74702023110",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/74702023110.csv",
+    "sha256": "5e8546db6833c6cfe65229ea4b746458ffafeb39ae3a98c9aed183c0ece91984",
+    "bytes": 86084,
+    "rows": 365
+  },
+  {
+    "station": "72595524259",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72595524259.csv",
+    "sha256": "2d5e80409c85d42d27e1fa71ca2660db590508eca19d213c463421b72cf07721",
+    "bytes": 90099,
+    "rows": 365
+  },
+  {
+    "station": "74917900392",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/74917900392.csv",
+    "sha256": "bc817d24f1a8a3bfc37836baf96706ad23dbb27d89d8cb1d36e6054e3ceed859",
+    "bytes": 88274,
+    "rows": 365
+  },
+  {
+    "station": "72590523275",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72590523275.csv",
+    "sha256": "86d2ffd1e47b9c05e17cdd8fbf21cff117c9d019ca057b0678889b7f3b528460",
+    "bytes": 89369,
+    "rows": 365
+  },
+  {
+    "station": "72061400205",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72061400205.csv",
+    "sha256": "d0f0f2c096e4f4383403fdc429fc6a08f570a2f3b42ecb18bb8c9b7d59e717b6",
+    "bytes": 94479,
+    "rows": 365
+  },
+  {
+    "station": "72389693144",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72389693144.csv",
+    "sha256": "ed7503ba31788d58e93d019a6e88751f925c095e70ae5ff26f8edb854fe95076",
+    "bytes": 88274,
+    "rows": 365
+  },
+  {
+    "station": "72040600135",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72040600135.csv",
+    "sha256": "ac5bd34baaa891f9fab823b33d868e07ed1a1a3122d8b2f5cb314376b5add42e",
+    "bytes": 84757,
+    "rows": 364
+  },
+  {
+    "station": "74504693242",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/74504693242.csv",
+    "sha256": "74bf99f98f3ad7a06c887b002cec9580da49d6924dd95cbab16170d8eed87782",
+    "bytes": 89369,
+    "rows": 365
+  },
+  {
+    "station": "72592024257",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72592024257.csv",
+    "sha256": "19258d7244077f0794caa3aaa81c1b6ed50567b3b3b2018db6e184c8a456b272",
+    "bytes": 86449,
+    "rows": 365
+  },
+  {
+    "station": "72492723285",
+    "year": 2021,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2021/72492723285.csv",
+    "sha256": "57f157a82466de68c2b7a93b10e5859dc6c2bb5c47c8e13b165273c5ebe6afc7",
+    "bytes": 90464,
+    "rows": 365
+  },
+  {
+    "station": "72389523149",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72389523149.csv",
+    "sha256": "2853a01ba87c38def87c8d5fef6cf32a81d98d986e6338da10affb568848f601",
+    "bytes": 89949,
+    "rows": 360
+  },
+  {
+    "station": "99999904139",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/99999904139.csv",
+    "sha256": "400f46ac8273cb3e35e546971321384c15e29b986acb160aad62a2875e146e88",
+    "bytes": 84989,
+    "rows": 365
+  },
+  {
+    "station": "72054900171",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72054900171.csv",
+    "sha256": "2635ae9cee6cd11891e4c5eb88889c84081ec89ea6b4f12822d1fed739d5c8be",
+    "bytes": 83829,
+    "rows": 360
+  },
+  {
+    "station": "72036524267",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72036524267.csv",
+    "sha256": "a114f71bf4a53825fb0f94f1311e7b6d09b02f43b94fefaf595086b5dc04c4a3",
+    "bytes": 88274,
+    "rows": 365
+  },
+  {
+    "station": "99404499999",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/99404499999.csv",
+    "sha256": "0bc75c1fd35cff77ca74d83f0d07fa138a9a5470aecf261aaf872046d5b2208f",
+    "bytes": 79563,
+    "rows": 357
+  },
+  {
+    "station": "72589594236",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72589594236.csv",
+    "sha256": "0f56bcfd6d79c4b4949254e4d65601ac9f217ee506ed0672cc20a527cf01841e",
+    "bytes": 94114,
+    "rows": 365
+  },
+  {
+    "station": "72481523257",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72481523257.csv",
+    "sha256": "0c1dbef2af3520b60f7991f099597930878e303413f81ffb14890752c860d1fc",
+    "bytes": 89369,
+    "rows": 365
+  },
+  {
+    "station": "74504893210",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/74504893210.csv",
+    "sha256": "82dc35f99bc52bbcfa3a94874623fb7a9477a6ccaa3b4bb511d9f682478a4582",
+    "bytes": 89489,
+    "rows": 364
+  },
+  {
+    "station": "72491523259",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72491523259.csv",
+    "sha256": "ef1eaf6d74e79b31785429d88485a5af8953e3d7ae9acc250cc3e39c43e5972d",
+    "bytes": 89734,
+    "rows": 365
+  },
+  {
+    "station": "72483023232",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72483023232.csv",
+    "sha256": "9d3c2af3c0da4f7c0d550758c5e624d648f47d549fdcd7ba330a4c99f847b7e4",
+    "bytes": 88639,
+    "rows": 365
+  },
+  {
+    "station": "72597024225",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72597024225.csv",
+    "sha256": "ed6461b99bc90acb2c0c194a4aea3476a1d24eb3744a3e377374354fc3f786d0",
+    "bytes": 91559,
+    "rows": 365
+  },
+  {
+    "station": "72065200433",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72065200433.csv",
+    "sha256": "4b67d974903245c375e4fb013f6f6e2e9c20198cbf5c98832fc746ff861e702a",
+    "bytes": 88754,
+    "rows": 361
+  },
+  {
+    "station": "72495723213",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72495723213.csv",
+    "sha256": "8dae4714128fe277fd0fbccef31c4105aef0b295c7d77a2223b8296d1cca8154",
+    "bytes": 90829,
+    "rows": 365
+  },
+  {
+    "station": "72595894299",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72595894299.csv",
+    "sha256": "d91662403fe6b2f6f9ba9c2e0938b66946c030d8409b7c378a0d1f7b9379d390",
+    "bytes": 90099,
+    "rows": 365
+  },
+  {
+    "station": "72389093193",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72389093193.csv",
+    "sha256": "15092d24fd1247ce8acb4487f8fe0032e46acdffcd6c7ba87148fd0d3f504421",
+    "bytes": 91559,
+    "rows": 365
+  },
+  {
+    "station": "72591024216",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72591024216.csv",
+    "sha256": "c8cf76cdd1934c515ec8f387655966773eaaa09cacfd8081ef0f27f3763f1116",
+    "bytes": 90829,
+    "rows": 365
+  },
+  {
+    "station": "72061500206",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72061500206.csv",
+    "sha256": "8b04073f8fca097bd181d1b815f119561ab3b846ecad63deacce6e858b349c67",
+    "bytes": 85354,
+    "rows": 365
+  },
+  {
+    "station": "72584523225",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72584523225.csv",
+    "sha256": "302dc8ac6768b4f1e82c0335f2ff87004bb15557c0b96f2638630fee54142ea3",
+    "bytes": 90464,
+    "rows": 365
+  },
+  {
+    "station": "72595724215",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72595724215.csv",
+    "sha256": "da0907dd4bf79e104f55eb829f4e9ec2c268ea5c81b56845b66ec9574a53ad44",
+    "bytes": 85741,
+    "rows": 362
+  },
+  {
+    "station": "72597694285",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72597694285.csv",
+    "sha256": "d8a70383809797c2c980df0b696011bd805058b73c9b28b0212e2cd375317c0e",
+    "bytes": 85009,
+    "rows": 350
+  },
+  {
+    "station": "72492023237",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72492023237.csv",
+    "sha256": "faafd941d32ae7ab6fa27ff00861a0122d6d9527b5acb4edb0f561c36497e69d",
+    "bytes": 86084,
+    "rows": 365
+  },
+  {
+    "station": "99403499999",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/99403499999.csv",
+    "sha256": "67882e001f06a5e662e660adc8d99fed6aa1361e9221f32dca4adf2ca5f5de8b",
+    "bytes": 80440,
+    "rows": 353
+  },
+  {
+    "station": "72064500227",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72064500227.csv",
+    "sha256": "d2d21d3a8e869cbea7be7e107de97557907f15a5775d48c3f4758321e4362d56",
+    "bytes": 86084,
+    "rows": 365
+  },
+  {
+    "station": "72494693232",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72494693232.csv",
+    "sha256": "b20b77e54460f5ec72cdcfd6ede4a253f3af970e137fc35757e9e3871aebcadd",
+    "bytes": 90559,
+    "rows": 361
+  },
+  {
+    "station": "99999953150",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/99999953150.csv",
+    "sha256": "7364914bf3f17473ed3931bee4c8f86ca9f7affa371d2fe8d953539fa2761477",
+    "bytes": 88274,
+    "rows": 365
+  },
+  {
+    "station": "72083900279",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72083900279.csv",
+    "sha256": "80fb50cee10ab0c743325edae4ba54be93f65ece671d03e4f3347d0ab390feb0",
+    "bytes": 86213,
+    "rows": 364
+  },
+  {
+    "station": "74702023110",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/74702023110.csv",
+    "sha256": "8797e86cb55c40ff525ee61265c1dee97c4b67ce44e1e0433ce2a1196c37e055",
+    "bytes": 85849,
+    "rows": 364
+  },
+  {
+    "station": "72595524259",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72595524259.csv",
+    "sha256": "ce9e663ca28c27504cd7a916d8909928ad2a36a33d46338f87aeca666fd86467",
+    "bytes": 90099,
+    "rows": 365
+  },
+  {
+    "station": "74917900392",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/74917900392.csv",
+    "sha256": "b558454718ee55f90e561ba38ad55bbc36a354b4bdd47459249e8fcc7dacd750",
+    "bytes": 88274,
+    "rows": 365
+  },
+  {
+    "station": "72590523275",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72590523275.csv",
+    "sha256": "f28e923389d7976b03eaafe6f40728e03655509fc9743bad89b1237c33acc776",
+    "bytes": 89369,
+    "rows": 365
+  },
+  {
+    "station": "72061400205",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72061400205.csv",
+    "sha256": "c409ad8119660926e41266258ae9d1423689854fce361388f5f032c00623d9db",
+    "bytes": 94479,
+    "rows": 365
+  },
+  {
+    "station": "72389693144",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72389693144.csv",
+    "sha256": "54b61437c8c9ce76d59278e4823c1836067bddab79ebf931dc6ec6ba0ac15823",
+    "bytes": 86587,
+    "rows": 358
+  },
+  {
+    "station": "72040600135",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72040600135.csv",
+    "sha256": "04514f9573741f355a203901c087a67f3db707d42d7640f1be2280666b022980",
+    "bytes": 84989,
+    "rows": 365
+  },
+  {
+    "station": "74504693242",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/74504693242.csv",
+    "sha256": "82315f99deac287f79174992a9fb6d4f8506f537331f803c034861654b3fd052",
+    "bytes": 89369,
+    "rows": 365
+  },
+  {
+    "station": "72592024257",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72592024257.csv",
+    "sha256": "a557d3fd8bcff9a424e60ccbd89001f24cee0e2c7d35769b25006795509c198c",
+    "bytes": 86449,
+    "rows": 365
+  },
+  {
+    "station": "72492723285",
+    "year": 2022,
+    "url": "https://www.ncei.noaa.gov/data/global-summary-of-the-day/access/2022/72492723285.csv",
+    "sha256": "076bf431b7041919184ffb19f34752333cf42b00139effdbec11ccdcdbbf0b68",
+    "bytes": 90464,
+    "rows": 365
+  }
+]

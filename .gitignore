@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+realdata/dev/
+kriging_dev/*.csv
+kriging_dev/*.json
+historical_dev/*.csv
+historical_dev/*.json
+historical_dev/*.npz
+analog_dev/*.csv
+analog_dev/*.json
+analog_dev/*.npy
+cold_dev/*.csv
+cold_dev/*.json
